@@ -1,0 +1,111 @@
+{
+  "dialogue": [
+    {
+      "name": "Sheldon",
+      "text": "I admit {satisfied} the design of Cookie Crush is quite elegant in its simplicity."
+    },
+    {
+      "name": "Leonard",
+      "text": "That’s practically a compliment, Sheldon. {intrigued} Are you feeling okay?"
+    },
+    {
+      "name": "Penny",
+      "text": "Don’t worry, Leonard. He’s probably just trying to justify playing it himself."
+    },
+    {
+      "name": "Sheldon",
+      "text": "Incorrect. {neutral} I’m studying its mechanics. The progression system is oddly satisfying."
+    },
+    {
+      "name": "Penny",
+      "text": "It’s called fun, Sheldon. You should try it more often."
+    },
+    {
+      "name": "Leonard",
+      "text": "She’s got a point. Sometimes, a simple game can be relaxing."
+    },
+    {
+      "name": "Neighbour",
+      "text": "I fully agree {affirmative}"
+    },
+    {
+      "name": "Sheldon",
+      "text": "Relaxing? I suppose there’s merit in low-stakes gameplay to reduce cortisol levels."
+    },
+    {
+      "name": "Penny",
+      "text": "Translation: Sheldon likes crushing cookies but won’t admit it. {laughing}"
+    },
+    {
+      "name": "Sheldon",
+      "text": "Fine. I find the color-matching oddly soothing. Happy?"
+    },
+    {
+      "name": "Leonard",
+      "text": "Very. Now we can finally play as a team in Wordscapes."
+    },
+    {
+      "name": "Penny",
+      "text": "Wait, Sheldon’s doing team games now? What’s next, co-op decorating?"
+    },
+    {
+      "name": "Sheldon",
+      "text": "Unlikely. But if the design involves symmetry and efficiency, I may consider it."
+    },
+    {
+      "name": "Penny",
+      "text": "See? Casual gaming brings people together!"
+    },
+    {
+      "name": "Leonard",
+      "text": "Even Sheldon. That’s a win for everyone. {win}"
+    },
+    {
+      "name": "Sheldon",
+      "text": "Agreed. {neutral} Though I still maintain chess simulators are superior."
+    },
+    {
+      "name": "Penny",
+      "text": "Sure, Sheldon. {intrigued} You can play chess *after* we beat this next level."
+    }
+  ],
+  "emojies": [
+    {
+      "name": "sad",
+      "url": "magic-words/emojis/sad.png"
+    },
+    {
+      "name": "intrigued",
+      "url": "magic-words/emojis/intrigued.png"
+    },
+    {
+      "name": "neutral",
+      "url": "magic-words/emojis/neutral.png"
+    },
+    {
+      "name": "satisfied",
+      "url": "magic-words/emojis/satisfied.png"
+    },
+    {
+      "name": "laughing",
+      "url": "magic-words/emojis/laughing.png"
+    }
+  ],
+  "avatars": [
+    {
+      "name": "Sheldon",
+      "url": "magic-words/avatars/sheldon.png",
+      "position": "left"
+    },
+    {
+      "name": "Penny",
+      "url": "magic-words/avatars/penny.png",
+      "position": "right"
+    },
+    {
+      "name": "Leonard",
+      "url": "magic-words/avatars/leonard.png",
+      "position": "right"
+    }
+  ]
+}

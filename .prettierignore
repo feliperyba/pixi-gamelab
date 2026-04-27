@@ -1,0 +1,9 @@
+dist
+docs
+node_modules
+.vite
+src/assets/**
+.playwright-mcp
+vite-dev.log
+vite-dev.err.log
+repo/menu-full.png
